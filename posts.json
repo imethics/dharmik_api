@@ -13,6 +13,7 @@
 "userName" : "Radhika Shukla",
 "userAvatar" : "https://ui-avatars.com/api/?background=random",
 "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem ev",
+"imageUrl": "https://images.unsplash.com/photo-1524443169398-9aa1ceab67d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=848&q=80", 
 "rings": "10"
 },
  {
@@ -21,7 +22,7 @@
 "userName" : "Rahul Kumar",
 "userAvatar" : "https://ui-avatars.com/api/?background=random",
 "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem ev",
-"imageUrl": "https://images.unsplash.com/photo-1510428571240-8a7a15ade3f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1888&q=80",
+"imageUrl": "",
 "rings": "10"
 },
  {
@@ -30,6 +31,7 @@
 "userName" : "Radhika Shukla",
 "userAvatar" : "https://ui-avatars.com/api/?background=random",
 "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem ev",
+"imageUrl": "",
 "rings": "10"
 }
 ]
